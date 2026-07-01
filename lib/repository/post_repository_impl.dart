@@ -1,6 +1,6 @@
-import 'package:my_app/data/api/api_service.dart';
-import 'package:my_app/models/post_model.dart';
-import 'package:my_app/repository/post_repository.dart';
+import 'package:flutter_widget_cookbook/data/api/api_service.dart';
+import 'package:flutter_widget_cookbook/models/post_model.dart';
+import 'package:flutter_widget_cookbook/repository/post_repository.dart';
 
 class PostRepositoryImpl implements PostRepository {
   final ApiService _apiService;

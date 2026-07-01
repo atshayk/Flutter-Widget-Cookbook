@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
-import 'package:my_app/ui/postview/post_screen.dart';
+import 'package:flutter_widget_cookbook/ui/postview/post_screen.dart';
 import '../../widgets/layout_widgets_screen.dart';
 import '../../widgets/button_input_widgets_screen.dart';
 import '../../widgets/info_widgets_screen.dart';

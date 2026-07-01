@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:my_app/models/post_model.dart';
-import 'package:my_app/repository/post_repository.dart';
+import 'package:flutter_widget_cookbook/models/post_model.dart';
+import 'package:flutter_widget_cookbook/repository/post_repository.dart';
 
 class PostNotifier extends ChangeNotifier {
   final PostRepository _repository;

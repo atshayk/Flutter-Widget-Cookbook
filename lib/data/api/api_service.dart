@@ -1,6 +1,6 @@
 import 'package:dio/dio.dart';
-import 'package:my_app/data/network/api_client.dart';
-import 'package:my_app/models/post_model.dart';
+import 'package:flutter_widget_cookbook/data/network/api_client.dart';
+import 'package:flutter_widget_cookbook/models/post_model.dart';
 
 class ApiService {
   final ApiClient _apiClient;

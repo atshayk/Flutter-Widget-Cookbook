@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
-import 'package:my_app/providers.dart';
+import 'package:flutter_widget_cookbook/providers.dart';
 
 class PostScreen extends ConsumerStatefulWidget {
   const PostScreen({super.key});

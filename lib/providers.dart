@@ -1,9 +1,9 @@
 import 'package:flutter_riverpod/flutter_riverpod.dart';
-import 'package:my_app/data/network/api_client.dart';
-import 'package:my_app/data/api/api_service.dart';
-import 'package:my_app/repository/post_repository.dart';
-import 'package:my_app/repository/post_repository_impl.dart';
-import 'package:my_app/ui/postview/post_notifier.dart';
+import 'package:flutter_widget_cookbook/data/network/api_client.dart';
+import 'package:flutter_widget_cookbook/data/api/api_service.dart';
+import 'package:flutter_widget_cookbook/repository/post_repository.dart';
+import 'package:flutter_widget_cookbook/repository/post_repository_impl.dart';
+import 'package:flutter_widget_cookbook/ui/postview/post_notifier.dart';
 
 final apiClientProvider = Provider((ref) => ApiClient());
 
