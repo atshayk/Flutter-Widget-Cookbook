@@ -120,3 +120,6 @@ Note: This app works on Windows, macOS, Linux, iOS and Android.
 - `flutter_riverpod`: State management
 - `dio`: HTTP client
 - `google_fonts`: Custom font integration
+
+---
+*Developed by @atshayk*
