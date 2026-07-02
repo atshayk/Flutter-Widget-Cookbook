@@ -100,7 +100,7 @@ Custom theme implementation with:
 ### Steps
 1. Clone the repository
 ```bash
- https://github.com/atshayk/Flutter-Widget-Cookbook.git 
+ git clone https://github.com/atshayk/Flutter-Widget-Cookbook.git
 ```
 2. Run `flutter pub get`
 3. Run `flutter pub run build_runner build` (if using code generation)
